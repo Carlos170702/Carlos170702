@@ -24,7 +24,6 @@
 
 Soy un desarrollador web con aproximadamente **3 años de experiencia**, trabajando tanto en **frontend como backend**.
 
-💡 Me enfoco en crear soluciones **prácticas, eficientes y escalables**.  
 🤖 Actualmente estoy explorando la integración de **Inteligencia Artificial** en aplicaciones reales.  
 📈 Siempre estoy aprendiendo nuevas tecnologías y mejorando mis habilidades.
 
@@ -32,8 +31,21 @@ Soy un desarrollador web con aproximadamente **3 años de experiencia**, trabaja
 
 ## ⚡ Tecnologías y herramientas
 
+### 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,js,ts,tailwind" />
+  <img src="https://skillicons.dev/icons?i=nextjs,js,ts,tailwind" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+</p>
+
+---
+
+### ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 <p align="center">
