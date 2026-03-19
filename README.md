@@ -21,6 +21,7 @@
 
 🎓 Ingeniero en Sistemas  
 📍 Comitán, Chiapas, México  
+🌐 Inglés: Nivel A2 - B1  
 
 Soy un desarrollador web con aproximadamente **3 años de experiencia**, trabajando tanto en **frontend como backend**.
 
