@@ -1,5 +1,4 @@
-<h1 align="center">👋 ¡Hola! Soy Carlos Daniel</h1>
-<h3 align="center">💻 Desarrollador Web | 🚀 Apasionado por la IA</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+%C2%A1Hola!+Soy+Carlos+Daniel;Desarrollador+Web;Apasionado+por+la+IA" alt="Typing SVG" /></a>
 
 <p align="center">
   <a href="mailto:carloscruz1dev@gmail.com">
