@@ -77,9 +77,8 @@ Soy un desarrollador web con aproximadamente **3 años de experiencia**, trabaja
 </p>
 
 ---
-
 ## 🐍 Contribuciones
 
 <p align="center">
-  <img src="https://github.com/Carlos170702/Carlos170702/blob/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Carlos170702/Carlos170702/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
