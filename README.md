@@ -72,9 +72,8 @@ Soy un desarrollador web con aproximadamente **3 años de experiencia**, trabaja
 
 ## 🚀 Actualmente
 
-- 🔍 Aprendiendo sobre **IA aplicada a desarrollo web**
-- 🧩 Construyendo proyectos con **arquitecturas modernas**
-- ⚙️ Mejorando buenas prácticas en **backend y APIs**
+- 🔄 Aprendiendo **n8n** para automatización de flujos
+- 🔗 Integrando **n8n con frontend** para crear aplicaciones dinámicas
 
 ---
 
@@ -87,7 +86,7 @@ Soy un desarrollador web con aproximadamente **3 años de experiencia**, trabaja
 ## 👀 Visitas al perfil
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Carlos170702&icon=3&color=6" />
+  <img src="https://komarev.com/ghpvc/?username=Carlos170702&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---
