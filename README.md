@@ -45,13 +45,6 @@ Soy un desarrollador web con aproximadamente **3 años de experiencia**, trabaja
 ---
 
 ### ⚙️ Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JWT-black?style=flat&logo=jsonwebtokens" />
-</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,django" />
