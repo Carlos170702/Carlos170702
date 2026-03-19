@@ -53,6 +53,15 @@ Soy un desarrollador web con aproximadamente **3 años de experiencia**, trabaja
   <img src="https://img.shields.io/badge/JWT-black?style=flat&logo=jsonwebtokens" />
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Django%20REST-ff1709?style=flat&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-black?style=flat&logo=jsonwebtokens" />
+</p>
+
 ---
 
 ## 📊 Estadísticas de GitHub
